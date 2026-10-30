@@ -1,0 +1,11 @@
+public class Student{
+    public static void main(String[] args) {
+      String name="Priyan";
+      int age=20;
+      String department="CSE";
+      System.out.println("name:"+name);
+      System.out.println("age:"+age);
+      System.out.println("department:"+department);
+    }
+}
+        
